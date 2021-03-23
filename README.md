@@ -1,3 +1,6 @@
+This is a forked repository for the second semester of research. None of this code is mine and for more information look to the research repository.
+
+
 # Graph Convolutional Networks
 
 This is a TensorFlow implementation of Graph Convolutional Networks for the task of (semi-supervised) classification of nodes in a graph, as described in our paper:

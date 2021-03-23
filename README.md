@@ -1,4 +1,4 @@
-This is a forked repository for the second semester of research. None of this code is mine and for more information look to the research repository.
+This is a forked repository for the first semester of research. None of this code is mine and for more information look to the research repository.
 
 
 # Graph Convolutional Networks
